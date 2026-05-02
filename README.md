@@ -28,7 +28,7 @@ I worked with raw data and turned it into an interactive dashboard using pivot t
 ## 📷 Dashboard Preview
 
 <p align="center">
-  <img src="dashboard.png" width="80%" alt="Dashboard Preview"/>
+  <img src="Screenshot 2026-05-02 193018.png" width="80%" alt="Dashboard Preview"/>
 </p>
 
 👉 *(Replace `dashboard.png` with your actual screenshot file name)*
