@@ -6,7 +6,7 @@
 
 ---
 
-# 📊 Excel Data Analysis Dashboard
+# 📊 Content Analysis Dashboard
 
 <p align="center">
   <img src="https://img.shields.io/badge/Tool-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
