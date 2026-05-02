@@ -71,17 +71,6 @@ I worked with raw data and turned it into an interactive dashboard using pivot t
 
 ---
 
-## 📂 Project Files
-
-```
-📁 Excel-Data-Dashboard
- ┣ 📊 Reactions.xlsx
- ┣ 🖼 dashboard.png
- ┗ 📄 README.md
-```
-
----
-
 ## 🙌 Final Thoughts
 
 This project is a small but important step in my data analytics journey. It helped me understand how to work with data and present it in a meaningful way.
