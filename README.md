@@ -1,7 +1,7 @@
 <!-- Animated Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00ADB5&center=true&vCenter=true&width=700&lines=Excel+Data+Analysis+Dashboard;My+First+Data+Analytics+Project;Turning+Data+into+Insights" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00ADB5&center=true&vCenter=true&width=700&lines=Content+Analysis+Dashboard;My+First+Data+Analytics+Project;Turning+Data+into+Insights" />
 </p>
 
 ---
